@@ -448,3 +448,5 @@ def analyze_transcript(client: OpenAI, audio_path: str, output_path: str, max_pa
     signals["exclamation_count"] = text.count("!")
     signals["comma_count"] = text.count(",")
     signals["ellipsis_count"] = text.count("...")
+
+# Still working on rest.
