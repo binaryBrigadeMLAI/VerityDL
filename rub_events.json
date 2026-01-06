@@ -1,0 +1,23 @@
+[
+  {
+    "count": 1,
+    "start_frame": 1,
+    "end_frame": 115,
+    "time_frames": 114,
+    "time_s": 7.121360769230769
+  },
+  {
+    "count": 2,
+    "start_frame": 181,
+    "end_frame": 250,
+    "time_frames": 69,
+    "time_s": 4.3102973076923075
+  },
+  {
+    "count": 3,
+    "start_frame": 253,
+    "end_frame": 259,
+    "time_frames": 6,
+    "time_s": 0.2
+  }
+]
