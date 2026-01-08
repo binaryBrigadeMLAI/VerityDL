@@ -1,2 +1,1 @@
-
-
+# This program currently contains over 1k lines of code but I am currently still working on this algorithm to allow you viewers to see a proper product with a mindblowing results...
