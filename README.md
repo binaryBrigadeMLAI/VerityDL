@@ -1,1 +1,1 @@
-Please star project.
+Please star project
