@@ -1,5 +1,4 @@
 # Welcome to the birdhouse of the DeltaVisionNet algorithm
-# Note I am still working on this algorithm and some parts aren't visible
 
 import cv2
 import math
@@ -158,6 +157,7 @@ def main():
     print("Total rubss=", rub_count)
 if __name__ == "__main__":
     main()
+
 
 
 
